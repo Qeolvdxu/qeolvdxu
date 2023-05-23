@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
-- 📚 I'm currently studying computer science at The University of Alabama in Huntsville
-- 🔭 I’m currently working in React with Typescript
-
 <figure><embed src="https://wakatime.com/share/@Qeolvdxu/eeb3bb3e-2d25-42a6-a619-206ca3bcc07f.svg"></embed></figure>
 
 <!--
